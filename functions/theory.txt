@@ -1,0 +1,5 @@
+pass by value and pass by reference
+// when we take values of two variables as input from the user and we give those values to a function after operating inside the function the value do not get updated there
+
+formal amd actual parameters
+// formal parameters are the variables a and b we take inside the main function whereas actual parameter is the value of a and by
